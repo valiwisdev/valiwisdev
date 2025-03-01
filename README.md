@@ -16,14 +16,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm a girl developer from Colombia who likes technology and learning every day.<br><br>- 📚 I'm currently learning Flutter & SwiftUI <br>- ⚡ In my free time I like to read, play video games and practice sports such as soccer or volleyball.</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
