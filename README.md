@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/pukinidev/IMAGES/blob/main/256x256bb.png?raw=trueblob/main/256x256bb.png"  />
+  <img height="150" src="https://github.com/valiwisdev.png"/>
 </div>
 
 ###
