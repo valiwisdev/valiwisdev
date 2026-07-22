@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://github.com/valiwisdev.png"/>
-</div>
+<img width="1280" height="400" alt="Untitled" src="https://github.com/user-attachments/assets/96f25e23-763d-4acd-84f4-5294c3a90d5c" />
 
 ###
 
